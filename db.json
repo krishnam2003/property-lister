@@ -1,0 +1,124 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Modern Downtown Condo",
+      "type": "Plot",
+      "location": "Downtown Seattle, WA",
+      "price": 875000,
+      "description": "Stunning modern condo with panoramic city views and premium finishes.",
+      "fullDescription": "This luxurious 2-bedroom, 2-bathroom condo features floor-to-ceiling windows, hardwood floors, stainless steel appliances, and a private balcony with breathtaking city views. Located in the heart of downtown with easy access to restaurants, shopping, and public transportation.",
+      "sqft": 1200,
+      "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "coordinates": {
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    },
+    {
+      "id": "2",
+      "name": "Charming Victorian House",
+      "type": "House",
+      "location": "Brooklyn Heights, NY",
+      "price": 1250000,
+      "description": "Historic Victorian home with original details and modern updates.",
+      "fullDescription": "Beautiful 3-bedroom, 2.5-bathroom Victorian house featuring original hardwood floors, ornate moldings, and a renovated kitchen. The home includes a private garden, finished basement, and is located on a tree-lined street in the desirable Brooklyn Heights neighborhood.",
+      "sqft": 2100,
+      "image": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "coordinates": {
+        "lat": 40.6958,
+        "lng": -73.9927
+      }
+    },
+    {
+      "id": "3",
+      "name": "Townhouse",
+      "type": "Shed",
+      "location": "Santaa, New Delhi",
+      "price": 2100000,
+      "description": "Oceanfront townhouse with private deck and beach access.",
+      "fullDescription": "Exceptional 4-bedroom, 3-bathroom townhouse just steps from the beach. Features include vaulted ceilings, a gourmet kitchen, master suite with ocean views, private rooftop deck, and direct beach access. Perfect for luxury coastal living.",
+      "sqft": 2800,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fplain-land&psig=AOvVaw1SW8jwFAmCUdbggS6aAlB1&ust=1753980888470000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjltJKG5Y4DFQAAAAAdAAAAABAL",
+      "coordinates": {
+        "lat": 34.0195,
+        "lng": -118.4912
+      }
+    },
+    {
+      "id": "4",
+      "name": "Cozy Studio",
+      "type": "Retail Store",
+      "location": "Mud Island, Mumbai",
+      "price": 325000,
+      "description": "Efficient studio with modern amenities in trendy neighborhood.",
+      "fullDescription": "Stylish studio apartment featuring exposed brick walls, high ceilings, updated kitchen with granite countertops, and in-unit washer/dryer. Located in the vibrant Capitol Hill area with easy access to live music venues, restaurants, and nightlife.",
+      "sqft": 550,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fretail%2F&psig=AOvVaw23f6iFU80ZgpA3o6wNfgj0&ust=1753981085563000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPji4PGG5Y4DFQAAAAAdAAAAABAE",
+      "coordinates": {
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    },
+    {
+      "id": "5",
+      "name": "Suburban Family Home",
+      "type": "House",
+      "location": "Plano, TX",
+      "price": 545000,
+      "description": "Spacious family home with large yard and excellent schools nearby.",
+      "fullDescription": "Beautiful 4-bedroom, 3-bathroom family home in a quiet suburban neighborhood. Features include an open floor plan, updated kitchen with island, master suite with walk-in closet, covered patio, and large backyard. Located in top-rated school district.",
+      "sqft": 2650,
+      "image": "https://images.pexels.com/photos/1396125/pexels-photo-1396125.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "coordinates": {
+        "lat": 33.0198,
+        "lng": -96.6989
+      }
+    },
+    {
+      "id": "6",
+      "name": "Mountain View Cabin",
+      "type": "House",
+      "location": "Aspen, CO",
+      "price": 1890000,
+      "description": "Rustic cabin with stunning mountain views and ski access.",
+      "fullDescription": "Charming 3-bedroom, 2-bathroom mountain cabin with panoramic views of the Rocky Mountains. Features include a stone fireplace, vaulted ceilings, wraparound deck, hot tub, and ski-in/ski-out access. Perfect for year-round mountain living or as a vacation retreat.",
+      "sqft": 1850,
+      "image": "https://images.pexels.com/photos/1396135/pexels-photo-1396135.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "coordinates": {
+        "lat": 39.1911,
+        "lng": -106.8175
+      }
+    },
+    {
+      "id": "8218",
+      "name": "Bacchan Villa",
+      "type": "Condo",
+      "location": "new delhi",
+      "price": 10000,
+      "description": "jhvluy",
+      "fullDescription": "hvjlbh",
+      "sqft": 1000,
+      "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      }
+    },
+    {
+      "id": "6408",
+      "name": "Amaan Land",
+      "type": "Plot",
+      "location": "Satara Bypass",
+      "price": 300,
+      "description": "This is land to sell.",
+      "fullDescription": "First come and get the opportunity of 10 % discount.",
+      "sqft": 100,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fland-beautiful.html&psig=AOvVaw1SW8jwFAmCUdbggS6aAlB1&ust=1753980888470000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjltJKG5Y4DFQAAAAAdAAAAABAE",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      }
+    }
+  ]
+}
