@@ -68,5 +68,5 @@ export default tseslint.config([
 ])
 ```
 
-<!-- run this command to activate backend part -->
-<!-- npx json-server --watch db.json --port 3001 -->
+run this command to activate backend part 
+npx json-server --watch db.json --port 3001 
